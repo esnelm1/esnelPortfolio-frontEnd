@@ -1,2 +1,2 @@
 # esnelPortfolio-frontEnd
-This is a repository for front end.
+This is a repository for my portfolio.
